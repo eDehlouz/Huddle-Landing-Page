@@ -33,7 +33,7 @@
 
 /**********************TAG SELECTOR***********************/
 
-html, body
+html,body
 {
   max-width: 100%;
   overflow-x: hidden;
@@ -111,7 +111,8 @@ td
 {
   position:relative;
   bottom:200px;
-  left: 900px;
+  left: 60%;
+  margin-right: 0;
 
   width: 400px;
 
@@ -119,7 +120,7 @@ td
 }
 .tryIt
 {
-  margin:0 auto 100px;
+  margin:100px auto 200px;
   width: 600px;
   padding: 10px 0;
   border: none;
@@ -176,7 +177,8 @@ td
 position: relative;
   top: 300px;
   right: 300px;
-  width: 700px;
+  width: 43.7%;
+  margin-right: 10px;
 
 
 }
